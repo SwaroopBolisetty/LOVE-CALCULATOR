@@ -1,0 +1,44 @@
+body{
+  background:url("love.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+.main{
+  text-align: center;
+  padding: 25px;
+  line-height: 2;
+  font-style: italic;
+}
+h1{
+  font-size: 40px;
+  color:green;
+}
+h2{
+  color:red;
+  font-size: 30px;
+}
+button{
+  padding:10px;
+  background: linear-gradient(to right,orange,lightpink);
+  border-radius: 25px;
+  border:2px solid brown;
+  cursor: pointer;
+  font-size: 25px;
+  font-style: italic;
+}
+button:hover{
+  background: linear-gradient(to left,orange,lightpink);
+  color:black;
+}
+p{
+  font-size: 25px;
+  color:black;
+
+
+}
+#you{
+  height:40px;
+  font-size:14pt;
+  background-color: skyblue;
+  border-radius: 30px;
+  border: white;
+}
